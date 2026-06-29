@@ -1,0 +1,24 @@
+=== HOW TO ADD CUSTOM SOUNDS ===
+
+1. Find an audio file (.mp3, .wav, or .ogg)
+   - You can download sounds from YouTube using online converters
+   - Make sure it's one of these file types: MP3, WAV, or OGG
+
+2. Copy your audio file into this folder (CustomSounds)
+   - The file name will be the button name in the menu
+   - Example: "explosion.mp3" will show as "explosion" in the menu
+
+3. In-game, go to Soundboard > Custom Sounds > Reload Custom Sounds
+   - This will refresh the list and add your new sounds
+
+4. Click any sound button to play it in-game
+   - Other players will hear it through your mic
+   - Press the button again to stop the sound
+
+TIPS:
+- Keep file names short and simple
+- Don't use special characters in file names
+- Sounds can be any length
+- You can add as many sounds as you want
+
+That's it! Have fun!

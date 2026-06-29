@@ -1,1 +1,2 @@
 verity;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/VerityDownloadPath.txt
+main;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/main/MainDownloadPath.txt
