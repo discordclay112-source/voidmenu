@@ -1,0 +1,26 @@
+Voicy 3 days;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/Voicy_3 days.mp3
+Voicy Verity exactly;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/Voicy_Verity exactly.mp3
+Voicy verity;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/Voicy_verity.mp3
+Verity no;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/veritfy no.mp3
+Verity 4;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity 4.mp3
+Verity 5;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity 5.mp3
+Verity ask;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity ask.mp3
+Verity be nice;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity be nice.mp3
+Verity exe;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity exe.mp3
+Verity france;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity france.mp3
+Verity gb bad;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity gb bad.mp3
+Verity gb;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity gb.mp3
+Verity good luck;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity good luck.mp3
+Verity hello friend;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity hello friend.mp3
+Verity heloo;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity heloo.mp3
+Verity helper;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity helper.mp3
+Verity hi;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity hi.mp3
+Verity i know;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity i know.mp3
+Verity maybe;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity maybe.mp3
+Verity oh nah;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity oh nah.mp3
+Verity ok;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity ok.mp3
+Verity something is com;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity something is com.mp3
+Verity song;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity song.mp3
+Verity song 2;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity song2.mp3
+Verity trust;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity trust.mp3
+Verity;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity.mp3
