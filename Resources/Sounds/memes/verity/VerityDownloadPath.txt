@@ -24,3 +24,7 @@ Verity song;https://raw.githubusercontent.com/discordclay112-source/voidmenu/ref
 Verity song 2;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity song2.mp3
 Verity trust;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity trust.mp3
 Verity;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/verity.mp3
+Voicy Verity Yeah!;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/Voicy_Verity Yeah!.mp3
+Voicy Verity im fr;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/Voicy_Verity im fr.mp3
+Voicy Verity turn around;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/Voicy_Verity turn around.mp3
+Voicy Verity you could've;https://raw.githubusercontent.com/discordclay112-source/voidmenu/refs/heads/main/Resources/Sounds/memes/verity/Voicy_Verity you could've.mp3
